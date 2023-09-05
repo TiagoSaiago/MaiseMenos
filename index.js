@@ -21,4 +21,3 @@ function increase() {
     let newNumber = currentNumber - 1;
     mainNumber.innerText = newNumber;
   }
-  
